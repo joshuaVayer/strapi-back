@@ -45,6 +45,12 @@
       "plugin": "upload",
       "required": false,
       "pluginOptions": {}
+    },
+    "Project": {
+      "type": "string"
+    },
+    "CaseStudy": {
+      "type": "string"
     }
   }
 }
